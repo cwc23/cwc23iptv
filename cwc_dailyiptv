@@ -3,3 +3,8 @@
 #EXTINF:-1,CHANNEL U http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87chu.smil/playlist.m3u8?
 #EXTINF:-1,OKTO http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87okto.smil/playlist.m3u8?
 #EXTINF:-1,NEWS ASIA http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87cna.smil/playlist.m3u8
+#EXTINF:-1,HBO HD http://113.160.49.34/lives/origin03/hbohd.isml/hbohd-2096k.m3u8
+#EXTINF:-1,AXN HD http://113.160.49.34/lives/origin03/axnhd.isml/axnhd-2096k.m3u8
+#EXTINF:-1,Star Movies HD http://113.160.49.34/lives/origin03/moviehd.isml/moviehd-2096k.m3u8
+#EXTINF:-1,NHK WORLD http://edge.nim.mivo.tv/kqcsmbqna6yg/nhkworld_all/playlist.m3u8 
+#EXTINF:-1,BLOOMBERG (USA) http://live.bltvios.com.edgesuite.net/tv/us/master.m3u8 
