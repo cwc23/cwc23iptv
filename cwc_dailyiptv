@@ -1,15 +1,1 @@
-#EXTM3U
-#EXTINF:-1,MediaCorp 5 
-http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87ch5.smil/playlist.m3u8? 
-#EXTINF:-1,MediaCorp 8 
-http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87ch8.smil/playlist.m3u8?
-#EXTINF:-1,CHANNEL U 
-http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87chu.smil/playlist.m3u8?
-#EXTINF:-1,OKTO 
-http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87okto.smil/playlist.m3u8?
-#EXTINF:-1,NEWS ASIA 
-http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87cna.smil/playlist.m3u8
-#EXTINF:-1,HBO HD 
-http://113.160.49.34/lives/origin03/hbohd.isml/hbohd-2096k.m3u8
-#EXTINF:-1,CCTV News 
-http://origin2.live.web.tv.streamprovider.net/streams/877ba7a57aa68fd898b838f58d51a69f/index.m3u8 
+
